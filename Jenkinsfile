@@ -1,7 +1,7 @@
 pipeline {
 
   environment {
-    dockerimagename = "/"
+    dockerimagename = "js/app"
     dockerImage = ""
   }
 
